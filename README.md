@@ -46,8 +46,9 @@ This training teaches you how to:
    ```bash
    git clone https://github.com/YOUR-USERNAME/phishing-awareness.git
 
-   ## 🧑‍💻 Author  
+---
 
+## 🧑‍💻 Author  
 Okon Emmanuel Sunday  
 Cybersecurity Ethical Hacker 
 📌 LinkedIn: https://www.linkedin.com/in/emmanuel-okon-94b086356/ 
